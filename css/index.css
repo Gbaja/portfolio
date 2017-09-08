@@ -5,7 +5,14 @@
     color: black;
 }
 .content{
-  padding-top: 20%;
+  padding-top: 22%;
+}
+.name{
+  font-family:Kumar One Outline;
+  font-size: 35px;
+}
+.title{
+  font-family: Indie Flower;
 }
 .list{
   display: inline-block;
@@ -15,4 +22,5 @@
   text-decoration: none;
   color: black;
   font-size: 20px;
+    font-family: Raleway Dots;
 }
