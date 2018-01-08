@@ -1,0 +1,107 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    color: black;
+}
+.index-container{
+  height: 100%;
+  position: fixed;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.heading__name{
+  font-family:Kumar One Outline;
+  font-size: 2.2rem;
+  padding-bottom: 0.5rem;
+}
+.heading__role{
+  font-family: Indie Flower;
+  font-size: 2rem;
+}
+.index-nav__list{
+  display: inline-block;
+  padding: 0.6rem;
+}
+.index-nav__links{
+  text-decoration: none;
+  color: black;
+  font-size: 2rem;
+  font-family: Amatic SC;
+}
+.main__questions {
+  background-color: #191919;
+  color: ghostwhite;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  text-align: left;
+  border: none;
+  outline: none;
+  transition: 0.4s;
+  font-size: 1.5rem;
+  border-bottom: 1px dotted white;
+  font-family: Indie Flower;
+}
+
+.main__questions:after {
+    content: '\02795'; /* Unicode character for "plus" sign (+) */
+    font-size: 13px;
+    color: #777;
+    float: right;
+    margin-left: 5px;
+}
+
+.active:after {
+    content: "\2796"; /* Unicode character for "minus" sign (-) */
+}
+
+/* Style the main__questions panel. Note: hidden by default */
+.main__answers {
+    padding: 2rem;
+    background-color: white;
+    display: none;
+    font-size: 1.2rem;
+    font-family: Indie Flower;
+}
+
+.pages-nav{
+  background-color: black;
+  position: fixed;
+  width: 100%;
+  top: 0;
+}
+
+.pages-nav__container{
+  display: flex;
+  justify-content: space-around;
+}
+.pages-nav__list{
+  list-style: none;
+  display: inline;
+  padding: 1rem;
+  font-size: 1.3rem;
+}
+
+.pages-nav__link{
+    color: white;
+  display: inline;
+  text-decoration: none;
+  font-family: Amatic SC;
+}
+.heading__title{
+  text-align: left;
+  margin-left: 1rem;
+  margin-top: 4rem;
+  padding: 1.5rem 0;
+  font-size: 1.5rem;
+  font-family:Kumar One Outline;
+}
+
+@media screen and (min-width: 600px) {
+  .heading__name{
+    font-size: 3.2rem;
+  }
+}
