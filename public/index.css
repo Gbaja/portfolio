@@ -47,18 +47,21 @@
 }
 
 .main__questions:after {
-    content: '\02795'; /* Unicode character for "plus" sign (+) */
-    font-size: 13px;
-    color: #777;
+    content: '\02795';
+    font-weight: bold;
+    color: white;
     float: right;
     margin-left: 5px;
 }
 
 .active:after {
-    content: "\2796"; /* Unicode character for "minus" sign (-) */
+    content: "\2796";
+    font-size: 1rem;
+    font-weight: bold;
+    color: white;
 }
 
-/* Style the main__questions panel. Note: hidden by default */
+
 .main__answers {
     padding: 2rem;
     background-color: white;
