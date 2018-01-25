@@ -41,28 +41,28 @@
   * Live website: https://secret-santa4.herokuapp.com/
 
 * Yoruba names meaning
- * Github repo: https://github.com/Gbaja/yoruba-names-meaning
- * Live website: https://yoruba-names-meaning.herokuapp.com/
+  * Github repo: https://github.com/Gbaja/yoruba-names-meaning
+  * Live website: https://yoruba-names-meaning.herokuapp.com/
 
 * Tutor Tutee Connect
- * Github repo: https://github.com/Gbaja/tutor-tutee-connect
- * Live website: https://tutor-tutee-connect.herokuapp.com/
+  * Github repo: https://github.com/Gbaja/tutor-tutee-connect
+  * Live website: https://tutor-tutee-connect.herokuapp.com/
 
 * Mental Maths game
- * Github repo: https://github.com/Gbaja/mentalmathsgame
- * Live website: https://gbaja.github.io/mentalmathsgame/
+  * Github repo: https://github.com/Gbaja/mentalmathsgame
+  * Live website: https://gbaja.github.io/mentalmathsgame/
 
 * Wikipedia Viewer
- * Github repo: https://github.com/Gbaja/FCCWikipediaViewer
- * Live website: https://gbaja.github.io/FCCWikipediaViewer/
+  * Github repo: https://github.com/Gbaja/FCCWikipediaViewer
+  * Live website: https://gbaja.github.io/FCCWikipediaViewer/
  
 * Hangman game
- * Github repo: https://github.com/Gbaja/hangman-game
- * Live website: https://gbaja.github.io/hangman-game/
+  * Github repo: https://github.com/Gbaja/hangman-game
+  * Live website: https://gbaja.github.io/hangman-game/
 
 * Calculator
- * Github repo: https://github.com/Gbaja/simpleCalculator
- * Live website: https://gbaja.github.io/simpleCalculator/
+  * Github repo: https://github.com/Gbaja/simpleCalculator
+  * Live website: https://gbaja.github.io/simpleCalculator/
 
 
 
