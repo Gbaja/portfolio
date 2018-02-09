@@ -3,7 +3,7 @@
 ### Clients
 * The Courtauld Institute of Art - Volunteer platform
   * Github repo: https://github.com/fac-12/CourtauldInstitute
-  * Live website: Work in progress
+  * Live website: https://courtauld.herokuapp.com
 
 ### Collaborations
 
